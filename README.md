@@ -1,4 +1,4 @@
-# data-scrap-practica
-Data scraping y análisis de datos con pandas.
+# Data Scraping Tutorial
+Data scraping and analysis with Beautiful Soup and Pandas.
 
-Basado en el código de: https://hackernoon.com/how-to-build-a-web-scraper-with-python-step-by-step-guide-jxkp3yum
+I've used the code from: https://hackernoon.com/how-to-build-a-web-scraper-with-python-step-by-step-guide-jxkp3yum
